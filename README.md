@@ -1,4 +1,4 @@
-# Monorepo Templates
+# Monorepo Template - Ecommerce Application
 
 This repository provides a collection of ready-to-use monorepo templates using various popular tools and configurations. These templates offer a solid foundation for your monorepo setup, whether you're starting a new project or restructuring an existing one.
 
